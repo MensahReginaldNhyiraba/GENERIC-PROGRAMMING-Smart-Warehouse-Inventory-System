@@ -31,6 +31,6 @@ The class can:
 - Generic Programming
 - TypeVar
 - Generic
-  #### Authpr
+  #### Author
   Mensah Reginald Nhyiraba
   FOE.41.006.112.25
