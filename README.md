@@ -1,4 +1,4 @@
-# GENERIC-PROGRAMMING-Smart-Warehouse-Inventory-System
+
 # Smart Warehouse Inventory System
 
 ## Description
